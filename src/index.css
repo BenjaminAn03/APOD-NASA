@@ -31,10 +31,9 @@
   width: 100%;
 }
 
-.bgImage {
+.bgImage, .bgVideo {
   width: 100%;
   height: 100%;
-  flex: 1;
   object-fit: cover;
 }
 
